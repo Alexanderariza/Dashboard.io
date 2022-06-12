@@ -1,5 +1,5 @@
 var config = {
-  geojson: "https://web.fulcrumapp.com/shares/a5c8e07368efde43.geojson",
+  geojson: "https://fulcrumapp.io/share/94b5c2a6b86d404d1a9e/geojson",
   title: "Biblioteca Espectral UCM",
   layerName: "Trees",
   hoverProperty: "species_sim",
